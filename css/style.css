@@ -13,7 +13,13 @@
     position: fixed;
     top: 0;
     width: 100%;
+    background: black;
     
+}
+
+section {
+  padding-top: 80px;
+  margin-bottom: 500px;
 }
 
 .nav-bar a {
