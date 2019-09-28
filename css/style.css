@@ -1,3 +1,17 @@
 #header{
     margin-bottom: 500px;
 }
+
+#nav-bar {
+    margin-left: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.nav-bar a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 10px 12px;
+  }
