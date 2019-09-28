@@ -1,3 +1,10 @@
+#BigName {
+  position: relative;
+  top: 200px;
+  text-align: center;
+  margin-top: 75px;
+}
+
 #header{
     margin-bottom: 500px;
 }
@@ -22,3 +29,12 @@
       background-color: red;
     }
   }
+
+  #wrapper {
+    margin-top: 75px;
+}
+
+#header-img {
+  height: 50px;
+  width: 50px;
+}
